@@ -29,6 +29,7 @@ Interaktive Werkzeuge zum Auswerten, Simulieren und Verstehen wissenschaftlicher
 | Werkzeug | Aufgabe | Anwendung | Quellcode |
 | --- | --- | --- | --- |
 | Gefügerechner für Stähle | Simulation | [Öffnen](https://werkzeugdeck.pages.dev/tools/gefuegerechner/) | [gefuegerechner](https://github.com/Werkzeugdeck/gefuegerechner) |
+| Gefügerechner für Aluminium | Simulation | [Öffnen](https://werkzeugdeck.pages.dev/tools/aluminiumgefuegerechner/) | [aluminiumgefuegerechner](https://github.com/Werkzeugdeck/aluminiumgefuegerechner) |
 | Legierungsatlas | Simulation | [Öffnen](https://werkzeugdeck.pages.dev/tools/legierungsatlas/) | [legierungsatlas](https://github.com/Werkzeugdeck/legierungsatlas) |
 
 ## Wärmeübertragung
